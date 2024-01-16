@@ -32,7 +32,7 @@ Mobile
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://spiffy-sunflower-4ddd53.netlify.app
 
 ## My process
 
@@ -46,6 +46,6 @@ Mobile
 
 ## Author
 
-- Name - [Michael Valan]
+- Name - Michael Valan
 - Frontend Mentor - [@michael-valan](https://www.frontendmentor.io/profile/michael-valan)
 - Twitter - [@mvalan27](https://www.twitter.com/mvalan27)
